@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "forecastLSW"]
 	path = forecastLSW
 	url = https://github.com/cran/forecastLSW
-	shallow = true
-	registered = true
 [submodule "lpacf"]
 	path = lpacf
 	url = https://github.com/cran/lpacf
-	shallow = true
-	registered = true
